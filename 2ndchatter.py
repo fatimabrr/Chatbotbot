@@ -1,6 +1,9 @@
 import streamlit as st
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
+streamlit
+chatterbot
+chatterbot_corpus
 
 # Create a chatbot instance
 chatbot = ChatBot("AdvancedBot")
